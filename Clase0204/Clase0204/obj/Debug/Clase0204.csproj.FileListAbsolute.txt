@@ -1,0 +1,10 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\bin\Debug\Clase0204.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Clase0204\Clase0204\obj\Debug\Clase0204.Extra.resources
