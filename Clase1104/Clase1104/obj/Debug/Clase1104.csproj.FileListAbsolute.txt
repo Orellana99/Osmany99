@@ -1,0 +1,9 @@
+E:\Programación l\Clase1104\Clase1104\bin\Debug\Clase1104.exe.config
+E:\Programación l\Clase1104\Clase1104\bin\Debug\Clase1104.exe
+E:\Programación l\Clase1104\Clase1104\bin\Debug\Clase1104.pdb
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.csprojResolveAssemblyReference.cache
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.Form1.resources
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.Properties.Resources.resources
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.csproj.GenerateResource.Cache
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.exe
+E:\Programación l\Clase1104\Clase1104\obj\Debug\Clase1104.pdb
