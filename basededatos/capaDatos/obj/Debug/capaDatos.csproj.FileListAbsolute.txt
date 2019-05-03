@@ -1,0 +1,5 @@
+E:\tareas-\basededatos\capaDatos\bin\Debug\capaDatos.dll
+E:\tareas-\basededatos\capaDatos\bin\Debug\capaDatos.pdb
+E:\tareas-\basededatos\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+E:\tareas-\basededatos\capaDatos\obj\Debug\capaDatos.dll
+E:\tareas-\basededatos\capaDatos\obj\Debug\capaDatos.pdb

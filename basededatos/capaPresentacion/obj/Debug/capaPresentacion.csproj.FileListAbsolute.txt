@@ -1,0 +1,6 @@
+E:\tareas-\basededatos\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+E:\tareas-\basededatos\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+E:\tareas-\basededatos\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+E:\tareas-\basededatos\capaPresentacion\obj\Debug\capaPresentacion.frmVendor.resources
+E:\tareas-\basededatos\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+E:\tareas-\basededatos\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
